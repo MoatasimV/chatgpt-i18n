@@ -1,6 +1,7 @@
 import { IDropdownSelectOption } from "../../components/dropdownSelect";
 
 export const intlLanguages: IDropdownSelectOption[] = [
+    { value: "Arabic", label: "العربية" },
     { value: "English", label: "English" },
     { value: "Spanish", label: "Español" },
     { value: "French", label: "Français" },
